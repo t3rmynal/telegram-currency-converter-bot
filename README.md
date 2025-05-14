@@ -1,4 +1,4 @@
-# Currency Conversion Bot
+# Telegram Currency Conversion Bot
 
 This is a Telegram bot that allows users to convert fiat currencies, cryptocurrencies, and custom units. The bot provides real-time conversion rates, allows users to save favorite conversion pairs, and generates currency exchange charts. It supports multiple languages for a better user experience.
 

@@ -1,0 +1,7 @@
+# requirements.txt
+aiogram==3.0.0
+requests==2.28.2
+matplotlib==3.7.1
+pandas==1.5.3
+openpyxl==3.0.10
+
